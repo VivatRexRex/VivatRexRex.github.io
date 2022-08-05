@@ -1,0 +1,14 @@
+header div nav h1, h3 {
+    color: blue;
+    background-color: beige;
+}
+
+main {
+    color: purple;
+    background-color: beige;
+}
+
+img {
+    height: 300px;
+
+}
