@@ -1,6 +1,7 @@
 header div nav h1, h3 {
-    color: blue;
+    color: black;
     background-color: beige;
+    font-family: serif; 
     margin: 100;
     padding: 100;
     text-align: center;
