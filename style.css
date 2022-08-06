@@ -1,16 +1,11 @@
 header div nav h1, h3 {
-    color: blue;
+    color: whitesmoke;
     background-color: black;
     font-family: ser;
     margin: 100;
     padding: 100;
     text-align: center;
 }
-
-header div nav h1 {
-    text-size-allign: 50px;
-}
-
 
 main {
     color: black;
