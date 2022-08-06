@@ -1,14 +1,19 @@
 header div nav h1, h3 {
     color: blue;
     background-color: beige;
+    margin: 100;
+    padding: 100;
+    text-align: center;
 }
 
 main {
-    color: purple;
+    color: blue;
+    font-family: sans-serif;
+    font-size: medium;
     background-color: beige;
+    text-align: center;
 }
 
 img {
     height: 300px;
-
 }
