@@ -1,18 +1,22 @@
 header div nav h1, h3 {
-    color: black;
+    color: blue;
     background-color: beige;
-    font-family: serif; 
+    font-family: ser;
     margin: 100;
     padding: 100;
     text-align: center;
 }
 
 main {
-    color: blue;
+    color: black;
     font-family: sans-serif;
     font-size: medium;
     background-color: beige;
     text-align: center;
+}
+
+footer div nav p {
+    color: whitesmoke;
 }
 
 img {
