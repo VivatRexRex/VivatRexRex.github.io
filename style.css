@@ -7,6 +7,10 @@ header div nav h1, h3 {
     text-align: center;
 }
 
+hr {
+    color: black;
+    width: 10px;
+}
 main {
     color: black;
     font-family: sans-serif;
