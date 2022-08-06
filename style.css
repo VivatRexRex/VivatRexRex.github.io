@@ -1,6 +1,6 @@
 header div nav h1, h3 {
     color: blue;
-    background-color: beige;
+    background-color: black;
     font-family: ser;
     margin: 100;
     padding: 100;
@@ -16,6 +16,9 @@ main {
 }
 
 footer div nav p {
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    background-color: black;
     color: whitesmoke;
 }
 
