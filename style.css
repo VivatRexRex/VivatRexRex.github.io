@@ -14,6 +14,11 @@ hr {
     width: 50%;
     color: black;
 }
+
+img {
+    height: 300px;
+    width: 300px;
+}
 header h2 {
     color: whitesmoke;
     font-family: serif;
