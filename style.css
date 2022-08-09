@@ -10,6 +10,9 @@ header {
     text-align: center;
 }
 
+hr{
+    border-width: 5px;
+}
 header h2 {
     color: whitesmoke;
     font-family: serif;
