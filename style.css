@@ -1,3 +1,4 @@
+/*This is to customize the header portion of my webpage to make it look more organized*/
 header {
     color: whitesmoke;
     background-color: black;
@@ -10,12 +11,14 @@ header {
     text-align: center;
 }
 
+/*This is to change the appearance of the division line between the sections. */ 
 hr {
    width: 50%;
    color: black;
    size: 5%;
 }
 
+/*This is to edit all images included in the html file*/
 img {
     height: 450px;
     width: 350px;
@@ -25,7 +28,7 @@ header h2 {
     font-family: serif;
     font-size: large;
 }
-
+/*This was to allign the numbers as well as bullets in both the ul and ol located in the html */
 ul {
     text-align: center;
     list-style-position: inside;
